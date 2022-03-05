@@ -9,3 +9,6 @@ akaka
 8 satır
 9 commit
 10 commit
+comit 12
+commit 13
+commit 14
