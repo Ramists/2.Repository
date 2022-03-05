@@ -8,3 +8,4 @@ bımdasakakam 7. satır
 akaka
 8 satır
 9 commit
+10.commit
